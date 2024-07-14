@@ -2,6 +2,8 @@
 <h2>Introduction</h2>
 <p>The Simon Game is a fun and interactive memory game that challenges players to remember and replicate a sequence of colors and sounds. The game progressively becomes more challenging as the sequence gets longer with each round.</p>
 
+![Simon Game Screenshot](images/screenshot_of_simon.png)
+
 <h2>Features</h2>
 <ul>
   <li><b>Interactive Gameplay:</b> Users interact with the game by clicking colored buttons that light up and produce sounds.</li>
